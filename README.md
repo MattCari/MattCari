@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattCari / Mateus Carius
 - 👀 I’m interested in job opportunities 
-- 🌱 I’m currently learning HTML|CSS|JAVASCRIPT
+- 🌱 I’m currently learning HTML|CSS|JAVASCRIPT|PYTHON|REACT|POSTEGRESQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me matt_cariusp@hotmail.com / https://www.linkedin.com/in/mateus-carius-604033148/
 
