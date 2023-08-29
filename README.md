@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning HTML|CSS|JAVASCRIPT|PYTHON|REACT|POSTEGRESQL
 - 💞️ I’m looking to collaborate on Front or Back-End projects. Feel free to contact me
 
-
+<div style="background-image: url(![1087509](https://github.com/MattCari/MattCari/assets/103394500/2731296c-26ae-41d6-bbd9-3a2559240ea0)
+)">
 <div>
 <a href="https://github.com/MattCari">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattCari&layout=compact&langs_count=7&theme=dracula"/>
@@ -27,7 +28,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" />
 
 <a href="https://www.linkedin.com/in/mateus-carius-604033148/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-          
+</div>
 <!---
 MattCari/MattCari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
