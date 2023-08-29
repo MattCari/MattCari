@@ -2,7 +2,6 @@
 - 👀 I’m interested in job opportunities 
 - 🌱 I’m currently learning HTML|CSS|JAVASCRIPT|PYTHON|REACT|POSTEGRESQL
 - 💞️ I’m looking to collaborate on Front or Back-End projects. Feel free to contact me
-![1087509](https://github.com/MattCari/MattCari/assets/103394500/ec79a979-2d26-4497-9fc8-e416eb34882b)
 
 
 <div>
