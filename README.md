@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning HTML|CSS|JAVASCRIPT|PYTHON|REACT|POSTEGRESQL
 - 💞️ I’m looking to collaborate on Front or Back-End projects. Feel free to contact me
 
-<div style="background-image: url(![1087509](https://github.com/MattCari/MattCari/assets/103394500/2731296c-26ae-41d6-bbd9-3a2559240ea0)
-)">
+<div style="background-image: url(![1087509](https://github.com/MattCari/MattCari/assets/103394500/2731296c-26ae-41d6-bbd9-3a2559240ea0));">
 <div>
 <a href="https://github.com/MattCari">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattCari&layout=compact&langs_count=7&theme=dracula"/>
